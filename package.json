@@ -1,0 +1,9 @@
+{
+  "name": "js-x76qvc",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "babel-preset-mobx": "^2.0.0",
+    "mobx": "^5.10.1"
+  }
+}
